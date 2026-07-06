@@ -2,11 +2,14 @@
 <img width="1043" height="621" alt="image" src="https://github.com/user-attachments/assets/de366417-0400-47f4-bff5-91eccf45b69c" />
 
 PS3 초 히로인 전기 한국어 패치
+
 기종 : PS3
 게임명 :  초 히로인 전기
           超ヒロイン戦記
+       
 게임ID : BLJS10244
 게임버전 : 1.01
+
 
 [한글패치]
 압축비번 :
