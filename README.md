@@ -23,7 +23,6 @@ PS3 초 히로인 전기 한국어 패치
 [패치할 원본 MD5해시값]
 
 1. design.cpk
-
 원본 MD5해시값
 dbc220e0b59904559a10198da5c61910
 
@@ -41,26 +40,25 @@ bf33376d18b003ee0ea797dfb946f80a
  * 모든 파일은 한 곳에 같이 있어야 합니다 *
 
 0. 패치할 작업폴더를 하나 만듭니다
-    예> c:\SHCP
+   예> c:\SHCP
 
 
-1. 한글패치를 "여기에 풀기"로 압축을 해제합니다.
-    반드시 반디집이나 7-zip을 사용해주세요(알집은 사용금지)
+2. 한글패치를 "여기에 풀기"로 압축을 해제합니다.
+   반드시 반디집이나 7-zip을 사용해주세요(알집은 사용금지)
 
 
-2. EBOOT.BIN 1.01 복사
+3. EBOOT.BIN 1.01 복사
     A. rpcs3로 원본 롬폴더를 지정하여 실행합니다.
-       hdd에 install 할꺼냐고 물어면 YES해서 타이틀 화면까지 가고 창을 닫습니다.    
-
+       hdd에 install 할꺼냐고 물어면 YES해서 타이틀 화면까지 가고 창을 닫습니다.
     B. rpcs3 에뮬 메뉴에서 install pakages/raps... 눌러 준비해둔 1.01로 업데이트 합니다.
     C. 1.01 업데이트가 된 것을 확인하고 rpcs3에뮬을 종료합니다.
-     - 간혹 프로세스에 떠 있을 때가 있으니 '작업관리자'를 띄워서 있으면 강제종료 해주세요
+       - 간혹 프로세스에 떠 있을 때가 있으니 '작업관리자'를 띄워서 있으면 강제종료 해주세요
 
     *아래 폴더를 반드시 삭제해주세요
-   rpcs3-v0.0.41설치폴더\dev_hdd0\game\BLJS10244-INSTALL
+      rpcs3-v0.0.41설치폴더\dev_hdd0\game\BLJS10244-INSTALL
 
     D.  패치할 파일들을 복사:  rpcs3설치폴더에서 EBOOT.BIN을 복사해옵니다.
-       rpcs3-v0.0.41설치폴더\dev_hdd0\game\BLJS10244\USRDIR\EBOOT.BIN
+          rpcs3-v0.0.41설치폴더\dev_hdd0\game\BLJS10244\USRDIR\EBOOT.BIN
 
 4.  패치할 파일들을 복사:  ShcPack.cpk 복사, Design.cpk 
    위치 : ShcPack.cpk   rpcs3-v0.0.41설치폴더\dev_hdd0\game\BLJS10244\USRDIR\
